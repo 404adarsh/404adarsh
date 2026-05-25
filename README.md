@@ -1,9 +1,7 @@
 <!--
   ╔══════════════════════════════════════════════════════════════════╗
-  ║                                                                  ║
   ║         GDR // 404adarsh — NEURAL INTERFACE v2.0.47             ║
   ║              SnapCourse Mainframe // SYSTEM ONLINE               ║
-  ║                                                                  ║
   ╚══════════════════════════════════════════════════════════════════╝
 -->
 
@@ -11,7 +9,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=300&text=GDR%20%2F%2F%20404adarsh&fontSize=80&color=0:030014,40:0d0221,100:030014&stroke=7B2FBE&strokeWidth=2&fontColor=00d4ff&animation=twinkling&desc=◈%20NEURAL%20INTERFACE%20v2.0.47%20ONLINE%20◈%20SnapCourse%20Mainframe%20◈%20SYSTEM%20READY%20◈&descAlignY=78&descSize=14&descColor=00ff41" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&text=GDR%20%2F%2F%20404adarsh&fontSize=72&color=0:030014,40:0d0221,100:030014&stroke=7B2FBE&strokeWidth=2&fontColor=00d4ff&animation=twinkling&desc=◈%20NEURAL%20INTERFACE%20v2.0.47%20ONLINE%20◈%20SnapCourse%20Mainframe%20◈%20SYSTEM%20READY%20◈&descAlignY=78&descSize=14&descColor=00ff41&section=header" width="100%" />
 
 </div>
 
@@ -19,15 +17,15 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=20&duration=2500&pause=700&color=00FF41&background=00000000&center=true&vCenter=true&multiline=true&repeat=true&width=760&height=130&lines=%5B+SYSTEM+BOOT+%5D+%E2%96%88+Initializing+Neural+Interface+v2.0.47...;%5B+ACCESS+GRANTED+%5D+%E2%96%88+Identity+Confirmed+%3A%3A+GDR+%2F%2F+404adarsh;%5B+DIRECTIVE+%5D+%E2%96%88+Cybersecurity+%7C+Full-Stack+%7C+AI+Systems+%7C+Builder;%5B+MISSION+%5D+%E2%96%88+Founder+%40+SnapCourse+%7C+Hacking+the+future;%5B+STATUS+%5D+%E2%96%88+Threat+Level%3A+CRITICAL+%7C+Always+Building..." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=18&duration=2500&pause=700&color=00FF41&background=00000000&center=true&vCenter=true&multiline=true&repeat=true&width=760&height=130&lines=%5B+SYSTEM+BOOT+%5D+Initializing+Neural+Interface+v2.0.47...;%5B+ACCESS+GRANTED+%5D+Identity+Confirmed+%3A%3A+GDR+%2F%2F+404adarsh;%5B+DIRECTIVE+%5D+Cybersecurity+%7C+Full-Stack+%7C+AI+Systems+%7C+Builder;%5B+MISSION+%5D+Founder+%40+SnapCourse+%7C+Hacking+the+future;%5B+STATUS+%5D+Threat+Level%3A+CRITICAL+%7C+Always+Building..." alt="Typing SVG" />
 
 </div>
 
 <br/>
 
-<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━ NEON DIVIDER ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━ DIVIDER ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 
-<img src="https://raw.githubusercontent.com/404adarsh/404adarsh/main/assets/neon-divider.svg" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12&height=2&reversal=false" width="100%"/>
 
 <br/>
 
@@ -55,12 +53,9 @@
 ║  > Connecting to SnapCourse mainframe ............ [ OK  ]               ║
 ║  > Activating neon interface layer ............... [ OK  ]               ║
 ║  > Running identity verification protocol ........ [ OK  ]               ║
-║  > Decrypting operator credentials ............... [ OK  ]               ║
 ║  > Synchronizing with GitHub neural uplink ....... [ OK  ]               ║
 ║  > Scanning for active operations ................ [ OK  ]               ║
 ║  > Running threat intelligence sweep ............. [ OK  ]               ║
-║  > Calibrating holographic display matrix ........ [ OK  ]               ║
-║  > Establishing comm link protocol ............... [ OK  ]               ║
 ║                                                                          ║
 ║  ┌──────────────────────────────────────────────────────────────────┐    ║
 ║  │  OPERATOR    ▸  GDR // 404adarsh                                 │    ║
@@ -87,7 +82,7 @@
 
 <table border="0" cellspacing="0" cellpadding="0" width="100%">
 <tr>
-<td width="58%" valign="top">
+<td width="60%" valign="top">
 
 ```yaml
 # ═══════════════════════════════════════
@@ -117,20 +112,27 @@ CURRENT_LOOP : while(alive) { build(); learn(); }
 
 </td>
 <td width="4%"></td>
-<td width="38%" valign="top" align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=12&duration=1800&pause=400&color=7B2FBE&background=0D022100&center=true&vCenter=true&multiline=true&repeat=true&width=300&height=220&lines=%E2%95%94%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%97;%E2%95%91+%E2%97%88+HOLOGRAM+PROFILE+%E2%97%88+%E2%95%91;%E2%95%91++++++++++++++++++++++%E2%95%91;%E2%95%91+++++++404adarsh+++++++%E2%95%91;%E2%95%91++++++++%5B+GDR+%5D++++++++%E2%95%91;%E2%95%91++++++++++++++++++++++%E2%95%91;%E2%95%91+Founder+%40+SnapCourse+%E2%95%91;%E2%95%91+Cybersec+%7C+Dev+%7C+AI++%E2%95%91;%E2%95%91++++++++++++++++++++++%E2%95%91;%E2%95%91++++%5B+VERIFIED+%E2%9C%93+%5D++++%E2%95%91;%E2%95%91++++++++++++++++++++++%E2%95%91;%E2%95%9A%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%9D" />
+<td width="36%" valign="top" align="center">
 
 <br/>
 
 [![SnapCourse](https://img.shields.io/badge/⚡_SNAPCOURSE-ONLINE-7B2FBE?style=for-the-badge&labelColor=030014)](https://snapcourse.in)
-[![Profile](https://img.shields.io/badge/GITHUB-404adarsh-00d4ff?style=for-the-badge&logo=github&labelColor=030014)](https://github.com/404adarsh)
+
+[![GitHub](https://img.shields.io/badge/GITHUB-404adarsh-00d4ff?style=for-the-badge&logo=github&labelColor=030014&logoColor=white)](https://github.com/404adarsh)
+
+[![Email](https://img.shields.io/badge/CONTACT-OPEN-00ff41?style=for-the-badge&logo=gmail&labelColor=030014&logoColor=white)](mailto:contact@snapcourse.in)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=404adarsh&label=UPLINKS+LOGGED&color=7B2FBE&style=for-the-badge&abbreviated=true)
 
 </td>
 </tr>
 </table>
 
-<img src="https://raw.githubusercontent.com/404adarsh/404adarsh/main/assets/neon-divider.svg" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12&height=2" width="100%"/>
+
+<br/>
 
 <!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━ MISSION DIRECTIVE ━━━━━━━━━━━━━━━━━━━━━━━━ -->
 
@@ -171,7 +173,9 @@ CURRENT_LOOP : while(alive) { build(); learn(); }
 └────────────────────────┴─────────────────────────────┴───────────────┘
 ```
 
-<img src="https://raw.githubusercontent.com/404adarsh/404adarsh/main/assets/neon-divider.svg" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12&height=2" width="100%"/>
+
+<br/>
 
 <!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━ SYSTEM STATUS ━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 
@@ -230,7 +234,7 @@ CURRENT_LOOP : while(alive) { build(); learn(); }
 
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-1793D1?style=flat-square&logo=kali-linux&logoColor=white)&nbsp;
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)&nbsp;
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burp-suite&logoColor=white)&nbsp;
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white)&nbsp;
 ![Nmap](https://img.shields.io/badge/Nmap-4A90D9?style=flat-square&logoColor=white)&nbsp;
 ![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logoColor=white)
 
@@ -258,7 +262,9 @@ CURRENT_LOOP : while(alive) { build(); learn(); }
 
 </details>
 
-<img src="https://raw.githubusercontent.com/404adarsh/404adarsh/main/assets/neon-divider.svg" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12&height=2" width="100%"/>
+
+<br/>
 
 <!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━ PROJECT SHOWCASE ━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 
@@ -282,7 +288,7 @@ MISSION      : A safe digital space for those
 UNIQUE_FACTOR: Anonymous-first architecture
 ```
 
-[![Repo](https://img.shields.io/badge/⚡_REPO-SilentLines-00d4ff?style=for-the-badge&labelColor=030014&logo=github)](https://github.com/404adarsh/SilentLines)
+[![Repo](https://img.shields.io/badge/⚡_REPO-SilentLines-00d4ff?style=for-the-badge&labelColor=030014&logo=github&logoColor=white)](https://github.com/404adarsh/SilentLines)
 
 </td>
 <td width="50%" valign="top">
@@ -301,7 +307,7 @@ MISSION      : Demystify cybersecurity for
 UNIQUE_FACTOR: Built by a learner, for learners
 ```
 
-[![Visit](https://img.shields.io/badge/⚡_VISIT-snapcourse.in-7B2FBE?style=for-the-badge&labelColor=030014)](https://snapcourse.in)
+[![Visit](https://img.shields.io/badge/⚡_VISIT-snapcourse.in-7B2FBE?style=for-the-badge&labelColor=030014&logo=vercel&logoColor=white)](https://snapcourse.in)
 
 </td>
 </tr>
@@ -325,7 +331,7 @@ MISSION      : Bridge students, teachers,
 UNIQUE_FACTOR: Real-time notification engine
 ```
 
-[![Repo](https://img.shields.io/badge/⚡_REPO-Homework_Alarm-00ff41?style=for-the-badge&labelColor=030014&logo=github)](https://github.com/404adarsh/Homework-Alarm)
+[![Repo](https://img.shields.io/badge/⚡_REPO-Homework_Alarm-00ff41?style=for-the-badge&labelColor=030014&logo=github&logoColor=white)](https://github.com/404adarsh/Homework-Alarm)
 
 </td>
 <td width="50%" valign="top">
@@ -344,13 +350,15 @@ MISSION      : Clean code for clean clothes.
 UNIQUE_FACTOR: Ultra-minimal dark UI design
 ```
 
-[![Repo](https://img.shields.io/badge/⚡_REPO-Laundry_Services-ff006e?style=for-the-badge&labelColor=030014&logo=github)](https://github.com/404adarsh/Laundry-Services)
+[![Repo](https://img.shields.io/badge/⚡_REPO-Laundry_Services-ff006e?style=for-the-badge&labelColor=030014&logo=github&logoColor=white)](https://github.com/404adarsh/Laundry-Services)
 
 </td>
 </tr>
 </table>
 
-<img src="https://raw.githubusercontent.com/404adarsh/404adarsh/main/assets/neon-divider.svg" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12&height=2" width="100%"/>
+
+<br/>
 
 <!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━ GITHUB STATS ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 
@@ -358,9 +366,9 @@ UNIQUE_FACTOR: Ultra-minimal dark UI design
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=404adarsh&show_icons=true&theme=radical&bg_color=030014&title_color=00d4ff&icon_color=7B2FBE&text_color=00ff41&border_color=7B2FBE&border_radius=8&include_all_commits=true&count_private=true&rank_icon=github&custom_title=◈+GDR+NEURAL+METRICS" height="190px" />
+<img src="https://github-readme-stats.vercel.app/api?username=404adarsh&show_icons=true&theme=radical&bg_color=030014&title_color=00d4ff&icon_color=7B2FBE&text_color=00ff41&border_color=7B2FBE&border_radius=8&include_all_commits=true&count_private=true&rank_icon=github&custom_title=◈+GDR+NEURAL+METRICS" height="195px" />
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=404adarsh&layout=compact&theme=radical&bg_color=030014&title_color=00d4ff&text_color=00ff41&border_color=7B2FBE&border_radius=8&langs_count=8&custom_title=◈+LANGUAGE+MATRIX" height="190px" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=404adarsh&layout=compact&theme=radical&bg_color=030014&title_color=00d4ff&text_color=00ff41&border_color=7B2FBE&border_radius=8&langs_count=8&custom_title=◈+LANGUAGE+MATRIX" height="195px" />
 
 <br/><br/>
 
@@ -380,7 +388,9 @@ UNIQUE_FACTOR: Ultra-minimal dark UI design
 
 </div>
 
-<img src="https://raw.githubusercontent.com/404adarsh/404adarsh/main/assets/neon-divider.svg" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12&height=2" width="100%"/>
+
+<br/>
 
 <!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━ CYBER DOMAIN ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 
@@ -468,7 +478,9 @@ UNIQUE_FACTOR: Ultra-minimal dark UI design
 
 </details>
 
-<img src="https://raw.githubusercontent.com/404adarsh/404adarsh/main/assets/neon-divider.svg" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12&height=2" width="100%"/>
+
+<br/>
 
 <!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━ COMM LINKS ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 
@@ -480,40 +492,21 @@ UNIQUE_FACTOR: Ultra-minimal dark UI design
 &nbsp;
 [![GitHub](https://img.shields.io/badge/⚡_GITHUB-404adarsh-00d4ff?style=for-the-badge&logo=github&labelColor=030014&logoColor=white)](https://github.com/404adarsh)
 &nbsp;
-[![Email](https://img.shields.io/badge/📡_CONTACT-COMM_OPEN-00ff41?style=for-the-badge&labelColor=030014)](mailto:contact@snapcourse.in)
+[![Email](https://img.shields.io/badge/📡_CONTACT-COMM_OPEN-00ff41?style=for-the-badge&logo=gmail&labelColor=030014&logoColor=white)](mailto:contact@snapcourse.in)
 
 <br/>
 
 > *Open to collaborations, cybersecurity projects, and building insane things together.*
 
-</div>
-
-<img src="https://raw.githubusercontent.com/404adarsh/404adarsh/main/assets/neon-divider.svg" width="100%" />
-
-<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━ SYSTEM LOG ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
-
-## `◈ SYSTEM LOG // UPLINK REGISTRY`
-
-<div align="center">
-
-```
-╔══════════════════════════════════════════════════════╗
-║         NEURAL UPLINK VISITOR REGISTRY               ║
-║         You are now part of the system.              ║
-╚══════════════════════════════════════════════════════╝
-```
-
-![Profile Views](https://komarev.com/ghpvc/?username=404adarsh&label=NEURAL+UPLINKS+LOGGED&color=7B2FBE&style=for-the-badge&abbreviated=true)
-
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=14&duration=4000&pause=1200&color=7B2FBE&center=true&vCenter=true&width=650&lines=◈+This+profile+runs+on+curiosity+and+caffeine+◈;◈+Every+commit+is+a+step+into+the+unknown+◈;◈+Currently+hacking+the+future+at+SnapCourse+◈;◈+Build+weird+things.+Break+things.+Ship+things.+◈" />
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=13&duration=4000&pause=1200&color=7B2FBE&center=true&vCenter=true&width=650&lines=◈+This+profile+runs+on+curiosity+and+caffeine+◈;◈+Every+commit+is+a+step+into+the+unknown+◈;◈+Currently+hacking+the+future+at+SnapCourse+◈;◈+Build+weird+things.+Break+things.+Ship+things.+◈" />
 
 </div>
 
 <!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━ FOOTER ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 
-<img src="https://raw.githubusercontent.com/404adarsh/404adarsh/main/assets/status-bar.svg" width="100%" />
+<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:030014,50:0d0221,100:030014&section=footer" width="100%" />
 
