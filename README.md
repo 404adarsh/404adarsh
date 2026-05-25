@@ -366,9 +366,9 @@ UNIQUE_FACTOR: Ultra-minimal dark UI design
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=404adarsh&show_icons=true&theme=radical&bg_color=030014&title_color=00d4ff&icon_color=7B2FBE&text_color=00ff41&border_color=7B2FBE&border_radius=8&include_all_commits=true&count_private=true&rank_icon=github&custom_title=◈+GDR+NEURAL+METRICS" height="195px" />
+<img src="https://github-readme-stats.vercel.app/api?username=404adarsh&show_icons=true&theme=radical&bg_color=030014&title_color=00d4ff&icon_color=7B2FBE&text_color=00ff41&border_color=7B2FBE&border_radius=8&include_all_commits=true&count_private=true&rank_icon=github&custom_title=%E2%97%88%20GDR%20NEURAL%20METRICS" height="195px" />
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=404adarsh&layout=compact&theme=radical&bg_color=030014&title_color=00d4ff&text_color=00ff41&border_color=7B2FBE&border_radius=8&langs_count=8&custom_title=◈+LANGUAGE+MATRIX" height="195px" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=404adarsh&layout=compact&theme=radical&bg_color=030014&title_color=00d4ff&text_color=00ff41&border_color=7B2FBE&border_radius=8&langs_count=8&custom_title=%E2%97%88%20LANGUAGE%20MATRIX" height="195px" />
 
 <br/><br/>
 
